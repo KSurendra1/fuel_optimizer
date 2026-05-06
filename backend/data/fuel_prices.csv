@@ -1,0 +1,6 @@
+name,city,state,lat,lng,price_per_gallon
+Station A,Columbus,OH,39.9612,-82.9988,3.250
+Station B,Indianapolis,IN,39.7684,-86.1581,3.180
+Station C,St Louis,MO,38.6270,-90.1994,3.120
+Station D,Oklahoma City,OK,35.4676,-97.5164,3.050
+Station E,Albuquerque,NM,35.0844,-106.6504,3.290
